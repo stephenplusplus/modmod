@@ -36,3 +36,7 @@ $.fs.writeFile('results.json', $.wiredep(), function (err) {
 ## Why?
 
 It's up to you. There's nothing wrong with the current system of multiple var declarations, and having too many isn't a node problem. Regardless, you may still consider it useful to namespace your dependencies under a name of your choosing, such as `M` or `$`, freeing up those "global" variables for use without conflicts.
+
+## License
+
+MIT © [Stephen Sawchuk](http://sawchuk.me)

@@ -1,6 +1,13 @@
 {
   "name": "modmod",
   "version": "0.1.0",
-  "author": "Stephen Sawchuk",
-  "main": "index.js"
+  "author": "Stephen Sawchuk <sawchuk@gmail.com> (http://sawchuk.me)",
+  "description": "make require-ing modules less require-y.",
+  "repository": "stephenplusplus/modmod",
+  "license": "MIT",
+  "keywords": [
+    "require",
+    "module",
+    "exports"
+  ]
 }
