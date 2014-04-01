@@ -1,9 +1,10 @@
 {
   "name": "modmod",
-  "version": "0.1.1",
-  "author": "Stephen Sawchuk <sawchuk@gmail.com> (http://sawchuk.me)",
+  "version": "4.0.0",
+  "author": "Stephen Sawchuk <sawchuk@gmail.com> (Passy actually did all of this)",
   "description": "make require-ing modules less require-y.",
   "repository": "stephenplusplus/modmod",
+  "main": "index.cofee",
   "license": "MIT",
   "keywords": [
     "require",
