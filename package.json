@@ -1,6 +1,6 @@
 {
   "name": "modmod",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Stephen Sawchuk <sawchuk@gmail.com> (http://sawchuk.me)",
   "description": "make require-ing modules less require-y.",
   "repository": "stephenplusplus/modmod",
