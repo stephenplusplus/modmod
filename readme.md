@@ -1,5 +1,5 @@
 # modmod
-> make `require`-ing modules less require-y.
+> namespace your external dependencies.
 
 
 ## Getting Started
